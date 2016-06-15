@@ -1,1 +1,3 @@
-web: go-web
+
+go install
+go run *.go
